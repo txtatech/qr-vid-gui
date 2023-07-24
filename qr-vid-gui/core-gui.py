@@ -5,7 +5,6 @@ import core_step_2
 import core_step_3
 import core_step_5
 import core_step_6
-import core_step_6_gui
 
 class MainFrame(wx.Frame):
     def __init__(self):
