@@ -1,5 +1,5 @@
 # qr-vid-gui
-A method to extract code from qr codes in a video, print it to the terminal and output it as a text file. This is a GUI fork of the qr-vid project found here: https://github.com/txtatech/qr-vid
+A method to extract code from qr codes in a video, output it to a live python editor, the terminal and a text file. This is a GUI fork of the qr-vid project found here: https://github.com/txtatech/qr-vid
 
 # QR Code Video Decoder and Interactive Python Code Executor
 
